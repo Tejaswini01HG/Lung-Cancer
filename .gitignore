@@ -1,0 +1,10 @@
+# Ignore datasets and uploads
+data/
+uploads_for_prediction/
+
+# Ignore model files
+*.h5
+*.pkl
+
+# Ignore Jupyter checkpoints
+*.ipynb_checkpoints/
