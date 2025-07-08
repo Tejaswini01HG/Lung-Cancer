@@ -1,10 +1,7 @@
-# Ignore datasets and uploads
+# Ignore large files and datasets
+lungcancer.h5
+lungcancer.pkl
+cnn_model.h5
 data/
 uploads_for_prediction/
 
-# Ignore model files
-*.h5
-*.pkl
-
-# Ignore Jupyter checkpoints
-*.ipynb_checkpoints/
